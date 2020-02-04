@@ -1,0 +1,22 @@
+{
+	"name":	"channel1",
+	"messages":	[{
+			"content":	"channel1",
+			"sender":	"ali2"
+		}, {
+			"content":	"channel1",
+			"sender":	"ali2"
+		}, {
+			"content":	"channel1",
+			"sender":	"ali2"
+		}, {
+			"content":	"payamel1",
+			"sender":	"ali2"
+		}, {
+			"content":	"salamel1",
+			"sender":	"ali2"
+		}, {
+			"content":	"salamaamamaokokok",
+			"sender":	"ali2"
+		}]
+}
